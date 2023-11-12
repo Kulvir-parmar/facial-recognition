@@ -7,8 +7,6 @@ This project is a facial expression recognition system based on deep learning. T
 It is implemented in PyTorch using EfficientNet neural network architecture. The dataset used in this project is [this](https://github.com/parth1620/Facial-Expression-Dataset.git) from Github.
 
 ### Results
-
-Model was trained for 15 epochs and it could reach validation accuracy of 58.33%.
 Below is the one of the outputs of the model.
 
 <img src="output.png" />
